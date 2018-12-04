@@ -1,0 +1,27 @@
+body {margin: 0;
+padding:0;}
+
+
+.theImageDiv {}
+
+img {
+  width: 75vw;
+  border: 10px solid;
+  color: rgb(186, 92, 168);
+}
+
+.centerContent {padding-left: 40vh;}
+
+.newBackgroundColor {
+  background-color: rgb(52, 225, 255);
+}
+
+h1{font-size: 72px;}
+#theNav {background-color: ;}
+
+#theNav a {
+  background-color: rgb(233, 232, 55);
+  padding-left: 2vw;
+text-decoration: none;
+font-size: 18px;
+}
